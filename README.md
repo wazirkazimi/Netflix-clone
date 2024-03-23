@@ -13,6 +13,13 @@ The primary aim of this project is to practice HTML and CSS skills by imitating 
 - Replica of Netflix homepage layout
 <!-- - Responsive design for various screen sizes -->
 - Utilization of HTML and CSS to mimic the appearance and functionality of Netflix
+## Screenshots
+![Netflix Clone Screenshot 1](screenshot (53).png)
+![Netflix Clone Screenshot 1](screenshot (49).png)
+![Netflix Clone Screenshot 1](screenshot (50).png)
+![Netflix Clone Screenshot 1](screenshot (51).png)
+![Netflix Clone Screenshot 1](screenshot (52).png)
+
 
 ## Disclaimer
 This project is not affiliated with Netflix Inc. in any form. It is an educational endeavor undertaken for personal skill development and enjoyment.
