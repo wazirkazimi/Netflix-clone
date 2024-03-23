@@ -8,17 +8,17 @@ body{
     background-color: black;
 }
 .main{
-    height: 70vh;
+    height: 80vh;
     width: 100%;
     object-fit: fill; 
      position: center ;
     background-position: center center ;
    /* background-repeat: no-repeat; */
    background-size: max(1200px ,100vw);
-   background-image: url("assets/img/bg.jpg");
+   background-image: url("bg.jpg");
 }
 .box{
-    height: 70vh;
+    height: 80vh;
     width: 100%;
     position: absolute;
     background-position: center center ;
@@ -73,7 +73,7 @@ body{
     /* height: 100%; */
 }
 .hero> :nth-child(2){
-    font-weight: 400;
+    font-weight: 350;
     font-size: 24px;
 }
 .line{
@@ -183,8 +183,8 @@ body{
     color: white;
     font-size: 1.6rem;
     padding: 50px;
-    padding-left: 560px;
-    padding-top: 220px;
+    padding-left: 576px;
+    padding-top: 13px;
     /* margin: 40px; */
     justify-content: center;
     /* text-align: center; */
